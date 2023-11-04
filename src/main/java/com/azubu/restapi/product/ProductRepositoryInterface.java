@@ -1,7 +1,5 @@
 package com.azubu.restapi.product;
 
-import jdk.jshell.Snippet;
-
 import java.util.List;
 
 public interface ProductRepositoryInterface<Product> {
